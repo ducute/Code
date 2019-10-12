@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="day1" targetName="day1_1" />
+      <config projectName="day1" targetName="day12" />
+      <config projectName="day1" targetName="day1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="386296cd-afaa-4d2f-aad8-8ca2414e8a59" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1R6G5CfQD7vFd8cqDKJOiih4dBP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day3/letter.cpp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.day1_1">
+    <configuration name="day1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="day1" TARGET_NAME="day1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="day1" RUN_TARGET_NAME="day1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="day1" TARGET_NAME="day12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="day1" RUN_TARGET_NAME="day12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day1_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="day1" TARGET_NAME="day1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="day1" RUN_TARGET_NAME="day1_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.day1" />
+      <item itemvalue="CMake Application.day12" />
+      <item itemvalue="CMake Application.day1_1" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="386296cd-afaa-4d2f-aad8-8ca2414e8a59" name="Default Changelist" comment="" />
+      <created>1568979947151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568979947151</updated>
+      <workItem from="1568979950222" duration="30000" />
+      <workItem from="1568979983646" duration="137000" />
+      <workItem from="1568980137509" duration="1655000" />
+      <workItem from="1568989396100" duration="49000" />
+      <workItem from="1568989456265" duration="345000" />
+      <workItem from="1568994587917" duration="506000" />
+      <workItem from="1569036866328" duration="717000" />
+      <workItem from="1569045094803" duration="3000" />
+      <workItem from="1569045719229" duration="1094000" />
+      <workItem from="1569047566423" duration="661000" />
+      <workItem from="1569051861151" duration="146000" />
+      <workItem from="1569547204978" duration="6000" />
+      <workItem from="1570523058713" duration="5000" />
+      <workItem from="1570634602731" duration="630000" />
+      <workItem from="1570682706351" duration="480000" />
+      <workItem from="1570683211091" duration="37000" />
+      <workItem from="1570683421189" duration="1826000" />
+      <workItem from="1570685617524" duration="15000" />
+      <workItem from="1570716802766" duration="18000" />
+      <workItem from="1570717581344" duration="267000" />
+      <workItem from="1570761262579" duration="296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

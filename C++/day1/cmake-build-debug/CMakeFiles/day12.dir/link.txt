@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/day12.dir/day2_1.cpp.o  -o day12 

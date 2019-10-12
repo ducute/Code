@@ -1,0 +1,5 @@
+/home/du/Code/C++/day1/cmake-build-debug/CMakeFiles/day12.dir
+/home/du/Code/C++/day1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/du/Code/C++/day1/cmake-build-debug/CMakeFiles/day1.dir
+/home/du/Code/C++/day1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/du/Code/C++/day1/cmake-build-debug/CMakeFiles/day1_1.dir
